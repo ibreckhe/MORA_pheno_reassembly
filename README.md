@@ -2,7 +2,7 @@
 Code and data suppporting "Theobald, Breckheimer, and HilleRisLambers. 2017. Climate drives phenological reassembly of a mountain wildflower meadow community. In press. Ecology." 
 
 ## References
-Paper and Supplemental: xxxDOIxxx
+Paper and Supplemental: doi:10.1002/ecy.1996 ([link](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1996/full))
 
 Code and Data: [![DOI](https://zenodo.org/badge/105659951.svg)](https://zenodo.org/badge/latestdoi/105659951)
 
